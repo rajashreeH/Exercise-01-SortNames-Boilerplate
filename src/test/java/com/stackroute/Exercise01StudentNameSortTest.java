@@ -43,7 +43,7 @@ public class Exercise01StudentNameSortTest {
 	}
 
 	@Test
-	public void test01_SortStudents() {
+	public void test_01_sortStudents() {
 		String[] studentNames = { "Max", "Rahul", "Girish", "John" };
 		int[] percentages = { 90, 75, 65, 80 };
 
@@ -57,7 +57,7 @@ public class Exercise01StudentNameSortTest {
 	}
 
 	@Test
-	public void test02_SortStudentsMain() {
+	public void test_02_sortStudents_main() {
 		String input = "Rahul:75;Girish:65;John:80;";
 		myInputStream = new ByteArrayInputStream(input.getBytes());
 		System.setIn(myInputStream);
