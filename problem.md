@@ -1,5 +1,7 @@
 ## Problem Statement: Sorted Student names
 
+**Sort the names of the students based on their percentages**
+
 **The boilerplate code contains a class Exercise01StudentNameSort with a static method sortStudents(..)**
 
 - sortStudents takes two arrays of same size as parameters.
