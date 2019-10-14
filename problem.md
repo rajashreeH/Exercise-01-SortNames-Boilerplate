@@ -11,7 +11,8 @@ Method sortStudents should return a String array with Student names, sorted in t
 
 **Do the following in the main method by using the sortStudents method**
 
-1. Accept a String containing student details from the console
+1. Accept a String containing student details from the console. Format of input is 
+   provided in the Example section
 2. Display the student names after sorting as shown in Example section
 
 ## Example
