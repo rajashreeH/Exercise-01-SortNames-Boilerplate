@@ -1,4 +1,4 @@
-## Seed code - Boilerplate - Exercise01_StudentNameSort
+## Seed code - Boilerplate - Exercise-01-SortNames-boilerplate
 
 ### Instructions
 Refer the problem.md file for problem description. 
@@ -9,9 +9,9 @@ Refer the problem.md file for problem description.
 
 2. **CLONE** the forked repository, containing the boilerplate in your local machine
      
-3. Navigate to Exercise01_StudentNameSort folder
+3. Navigate to Exercise-01-SortNames-boilerplate folder
 
-    `cd Exercise01_StudentNameSort`
+    `cd Exercise-01-SortNames-boilerplate`
 
 4. Check the status of your repository
      
