@@ -57,7 +57,7 @@ public class Exercise01StudentNameSortTest {
 	}
 
 	@Test
-	public void test_02_sortStudents_main() {
+	public void test_02_sortStudents_e2e() {
 		String input = "Rahul:75;Girish:65;John:80;";
 		myInputStream = new ByteArrayInputStream(input.getBytes());
 		System.setIn(myInputStream);
