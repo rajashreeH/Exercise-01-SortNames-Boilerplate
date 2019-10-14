@@ -6,6 +6,7 @@ public class Exercise01StudentNameSort {
 		return null;
 	}
 	
+	//Do not print anything other than what's expected/asked in problem
 	public static void main(String[] args) {
 		//Use Scanner to get input from console
 	}
